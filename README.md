@@ -27,13 +27,12 @@ Actualmente, estoy profundizando en el ecosistema de **AWS** y prácticas **Dev
 
 ## 🛠️ Featured Projects
 
-### ☁️ [Cloud Automation with Boto3](https://github.com/tu-usuario/proyecto-boto3)
+### ☁️ [Cloud Automation with Boto3](https://github.com/DavidVillena17/MEX30-SDK)
 Script de automatización en Python diseñado para el monitoreo de instancias **EC2** y gestión eficiente de almacenamiento en **S3**. 
 * **Tech:** Python, Boto3, AWS CLI.
 * **Impacto:** Reducción de tiempos manuales en la supervisión de infraestructura cloud.
 
-### 📊 [ETL & Data Transformation](https://github.com/tu-usuario/proyecto-etl)
-Procesamiento y limpieza de grandes volúmenes de datos utilizando Python y SQL para facilitar la toma de decisiones.
+### 📊 New Projects are on the way
 
 ---
 
